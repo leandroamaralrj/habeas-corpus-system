@@ -1,0 +1,14 @@
+{
+  "name": "seu-usuario/doc-preenchimento-word",
+  "description": "Projeto simples em PHP para preencher modelos .docx e gerar documentos Word.",
+  "require": {
+    "phpoffice/phpword": "^1.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
+
+
